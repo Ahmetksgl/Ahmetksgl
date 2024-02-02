@@ -7,33 +7,28 @@
 
 - 👨‍🔧 Electrical and Electronics Engineer
 - 👀 I’m interested in data science
-- 🌱 I am currently continuing to learn machine learning and SQL.
+- 🌱 I am currently continuing to learn Finnish and data science requirements.
+- ⛵ I did sailing. My whole hobby right now is taking care of my two little children.
 
-<p align="center"> 
-  <b> Connect with me: </b>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmetksgl/" target="_blank">
-    <img src="linkedin" alt="LinkedIn Logo" width="40">
-  </a> 
-  <a href="https://www.kaggle.com/ahmetkoseoglu" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Logo" width="40" />
-  </a>
-  
-</p>
 
-<p align="center">
-  <b>🛠 &nbsp;Languages and Tools</b>
-</p>  
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>   
- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
- <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/39595st.jpeg" alt="streamlit" width="40" height="40"/> </a>
-</p> 
+<h3> <img src='https://github.com/mesutdmn/mesutdmn/assets/72805471/315a9388-702c-4161-9782-e72511e07bc2' width="50px"> Connect with me </h3>
+<a target="_blank" href="https://www.linkedin.com/in/ahmetksgl/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.kaggle.com/ahmetkoseoglu"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
+
+
+<b>🛠 &nbsp;Languages and Tools</b>
+   
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp; 
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat-square&logo=microsoft-sql-server)&nbsp; 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp; 
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=streamlit)&nbsp; 
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas) 
+![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=flat-square&logo=scikitlearn)&nbsp; 
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy)&nbsp; 
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn)&nbsp; 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib)&nbsp; 
+
 
 
 
