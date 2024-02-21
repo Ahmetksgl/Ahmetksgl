@@ -17,8 +17,8 @@
 <a target="_blank" href="https://www.kaggle.com/ahmetkoseoglu"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
 
 
-<b>🛠 &nbsp;Languages and Tools</b>
-   
+<h3>🛠 Languages and Tools</h3>  
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp; 
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat-square&logo=microsoft-sql-server)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp; 
